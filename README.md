@@ -1,10 +1,7 @@
 
 
-##Sinatra Template
+##Sinatra Demo
 
-Fork and clone this repository to use as a template for your project.
+Use this as a reference for creating a basic web application with Sinatra
 
-
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-sinatra-project-template' title='Sinatra Template'>Sinatra Template</a> on Learn.co and start learning to code for free.</p>
+run shotgun -o 0.0.0.0 to start the web application server
